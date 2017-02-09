@@ -2,7 +2,7 @@
 
 **Please read the [Wiki](https://github.com/GLupeN64/GLupeN64/wiki) for an explanation of the core options**
 
-**[Binary Builds](http://loganbuildbot.s3-website-us-east-1.amazonaws.com/)**
+**Development has ceased on this project**
 
 GLupeN64 is [mupen64plus](https://github.com/mupen64plus/mupen64plus-core) + [GLideN64](https://github.com/gonetz/GLideN64) + [libretro](http://www.libretro.com/)
 
